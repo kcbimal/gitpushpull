@@ -1,1 +1,15 @@
-Hi Bimal
+#push
+>> Create and copy rep. in git: 
+      git remote add origin https://github.com/kcbimal/JDBCExam1017.git
+>> Right-click on the desired folder:
+       open it with "git bash here"
+>> in git bash here:
+      git init
+      git status
+      git add .
+      git commit -m "initial commit"
+      git status
+      git branch -M main
+      git remote add origin https://github.com/kcbimal/JDBCExam1017
+      git push -u origin main
+      
